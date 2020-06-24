@@ -6,6 +6,8 @@
 
 - 별도의 FTP & HTTP Server가 있어야 합니다.
 
+- intellij IDEA & maven을 사용합니다.
+
 - 프로젝트를 다운받은 후 추가해야할 사항은 다음과 같습니다.
 
       1) RidersWebFinal(https://github.com/CECD-Riders/RidersWebFinal)을 해당 프로젝트의 ./src/main/resources 폴더 아래에 받아주세요.
