@@ -27,3 +27,13 @@
 
 - 위 5가지를 잘 수행하였다면 intellij 에 임포트하여 실행합니다
 
+
+
+
+
+* 유튜브 발표 영상(12분)        : https://www.youtube.com/watch?v=9Pih1ZR0ZSc
+
+* 유튜브 시연 영상(5분)         : https://www.youtube.com/watch?v=NG2PHW-as-s
+
+* 유튜브 발표+시연 영상(5분)    : https://www.youtube.com/watch?v=NG2PHW-as-s
+
