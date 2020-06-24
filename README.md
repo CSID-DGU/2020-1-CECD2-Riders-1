@@ -2,6 +2,10 @@
 
 - 컴퓨터공학 종합설계2_01 팀 Riders 서버 프로젝트 저장소 입니다.
 
+- 로컬에 데이터베이스가 설치되어 있어야 합니다.
+
+- 별도의 FTP & HTTP Server가 있어야 합니다.
+
 - 프로젝트를 다운받은 후 추가해야할 사항은 다음과 같습니다.
 
       1) RidersWebFinal(https://github.com/CECD-Riders/RidersWebFinal)을 해당 프로젝트의 ./src/main/resources 폴더 아래에 받아주세요.
