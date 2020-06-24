@@ -12,3 +12,11 @@
 
 => 필요에 따라 직접 tesseract 학습 모델을 만들 수 있습니다. (https://github.com/nguyenq/jTessBoxEditor 참고)
 
+3) Oracle database 설치
+
+4) 별도의 FTP & HTTP Server 설치
+
+5) RidersWebFinal의 application.properties에 database와 FTP Server 설정 
+
+- 위 5가지를 잘 수행하였다면 intellij 에 임포트하여 실행합니다
+
